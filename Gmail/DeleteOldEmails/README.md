@@ -1,4 +1,4 @@
-Step 1: Open Google Apps Script Editor
+`Step 1: Open Google Apps Script Editor
 
     Go to the Google Apps Script website.
     Click on "Start Scripting" to open the Google Apps Script editor.
@@ -44,3 +44,4 @@ Step 7: Monitor and Adjust
     You can also modify the script to suit your specific needs by changing variables or adding additional functionality.
 
 That's it! Your Google Apps Script is now deployed and set up to run against your Gmail mailbox to delete old emails with a particular label.
+`
