@@ -2,7 +2,7 @@
 
 Step 1: Open Google Apps Script Editor
 
-- Go to the Google Apps Script website.  
+- Go to the Google Apps Script website.  https://script.google.com
 - Click on "Start Scripting" to open the Google Apps Script editor.
 
 Step 2: Copy and Paste the Script
